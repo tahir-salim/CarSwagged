@@ -1,0 +1,33 @@
+[09-Jun-2022 21:35:34 UTC] PHP Warning:  require(/home/webtestsdev/public_html/car_swagged/../vendor/autoload.php): failed to open stream: No such file or directory in /home/webtestsdev/public_html/car_swagged/index.php on line 34
+[09-Jun-2022 21:35:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/webtestsdev/public_html/car_swagged/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/webtestsdev/public_html/car_swagged/index.php on line 34
+[09-Jun-2022 21:35:43 UTC] PHP Warning:  require(/home/webtestsdev/public_html/car_swagged/../vendor/autoload.php): failed to open stream: No such file or directory in /home/webtestsdev/public_html/car_swagged/index.php on line 34
+[09-Jun-2022 21:35:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/webtestsdev/public_html/car_swagged/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/webtestsdev/public_html/car_swagged/index.php on line 34
+[09-Jun-2022 21:36:24 UTC] PHP Warning:  require(/home/webtestsdev/public_html/car_swagged/../vendor/autoload.php): failed to open stream: No such file or directory in /home/webtestsdev/public_html/car_swagged/index.php on line 34
+[09-Jun-2022 21:36:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/webtestsdev/public_html/car_swagged/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/webtestsdev/public_html/car_swagged/index.php on line 34
+[09-Jun-2022 21:37:41 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.29. in /home/webtestsdev/public_html/car_swagged/vendor/composer/platform_check.php on line 24
+[09-Jun-2022 21:49:27 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.29. in /home/webtestsdev/public_html/car_swagged/vendor/composer/platform_check.php on line 24
+[09-Jun-2022 21:50:09 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.29. in /home/webtestsdev/public_html/car_swagged/vendor/composer/platform_check.php on line 24
+[09-Jun-2022 21:55:50 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.29. in /home/webtestsdev/public_html/car_swagged/vendor/composer/platform_check.php on line 24
+[09-Jun-2022 21:56:16 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.29. in /home/webtestsdev/public_html/car_swagged/vendor/composer/platform_check.php on line 24
+[09-Jun-2022 21:56:19 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.29. in /home/webtestsdev/public_html/car_swagged/vendor/composer/platform_check.php on line 24
+[10-Jun-2022 03:37:43 Asia/Karachi] PHP Fatal error:  Trait "Laravel\Fortify\TwoFactorAuthenticatable" not found in /home/webtestsdev/public_html/car_swagged/app/Models/User.php on line 12
+[10-Jun-2022 03:41:50 Asia/Karachi] PHP Fatal error:  Trait "Laravel\Fortify\TwoFactorAuthenticatable" not found in /home/webtestsdev/public_html/car_swagged/app/Models/User.php on line 12
+[10-Jun-2022 03:42:59 Asia/Karachi] PHP Fatal error:  Trait "Laravel\Fortify\TwoFactorAuthenticatable" not found in /home/webtestsdev/public_html/car_swagged/app/Models/User.php on line 12
+[10-Jun-2022 03:48:22 Asia/Karachi] PHP Fatal error:  Trait "Laravel\Fortify\TwoFactorAuthenticatable" not found in /home/webtestsdev/public_html/car_swagged/app/Models/User.php on line 12
+[10-Jun-2022 03:49:03 Asia/Karachi] PHP Fatal error:  Trait "App\Models\TwoFactorAuthenticatable" not found in /home/webtestsdev/public_html/car_swagged/app/Models/User.php on line 12
+[10-Jun-2022 03:49:07 Asia/Karachi] PHP Fatal error:  Trait "App\Models\TwoFactorAuthenticatable" not found in /home/webtestsdev/public_html/car_swagged/app/Models/User.php on line 12
+[10-Jun-2022 03:49:21 Asia/Karachi] PHP Fatal error:  Trait "App\Models\TwoFactorAuthenticatable" not found in /home/webtestsdev/public_html/car_swagged/app/Models/User.php on line 12
+[10-Jun-2022 14:25:23 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.29. in /home/webtestsdev/public_html/car_swagged/vendor/composer/platform_check.php on line 24
+[10-Jun-2022 14:25:27 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.29. in /home/webtestsdev/public_html/car_swagged/vendor/composer/platform_check.php on line 24
+[10-Jun-2022 14:25:58 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.29. in /home/webtestsdev/public_html/car_swagged/vendor/composer/platform_check.php on line 24
+[10-Jun-2022 14:26:00 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.29. in /home/webtestsdev/public_html/car_swagged/vendor/composer/platform_check.php on line 24
+[10-Jun-2022 14:54:41 UTC] PHP Warning:  require(/home/webtestsdev/public_html/car_swagged/car_swagged/vendor/autoload.php): Failed to open stream: No such file or directory in /home/webtestsdev/public_html/car_swagged/index.php on line 34
+[10-Jun-2022 14:54:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/webtestsdev/public_html/car_swagged/car_swagged/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/webtestsdev/public_html/car_swagged/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/webtestsdev/public_html/car_swagged/index.php on line 34
+[10-Jun-2022 14:54:49 UTC] PHP Warning:  require(/home/webtestsdev/public_html/car_swagged/car_swagged/vendor/autoload.php): Failed to open stream: No such file or directory in /home/webtestsdev/public_html/car_swagged/index.php on line 34
+[10-Jun-2022 14:54:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/webtestsdev/public_html/car_swagged/car_swagged/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/webtestsdev/public_html/car_swagged/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/webtestsdev/public_html/car_swagged/index.php on line 34
